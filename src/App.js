@@ -9,9 +9,14 @@ const App = () => {
 
   // Masukkan contacts yang sudah didapat dalam JSON sebagai initial state
   // Buatlah handler untuk menambahkan kontak baru yang akan dikirim ke ContactForm
+  // const contacts = contactsJSON;
+  // const [contacts, setContacts] = useState(contacts);
+  // const [open, setOpen] = useState(false);
+  // const [selectedContact, setSelectedContact] = useState(null);
 
   return (
     <div className="App">
+
     </div>
   );
 };
