@@ -8,7 +8,7 @@ import React from 'react';
 const Header = () => {
   return (
     <>
-    <h1>Call A Friend</h1>
+    <h1>Call a Friend</h1>
     <h2>Your friendly contact app</h2>
     </>
   );
